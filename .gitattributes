@@ -1,0 +1,7 @@
+# index.html la bundle tu sinh. Git khong duoc doi ky tu xuong dong cua no:
+# neu doi, ban lam viec se lech byte so voi ban duoc GitHub Pages phuc vu,
+# lam viec doi chieu hash sau moi lan deploy bao dong gia.
+index.html -text
+
+# Script cong cu: giu LF cho gon.
+tools/*.js text eol=lf
